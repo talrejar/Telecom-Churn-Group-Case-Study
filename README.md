@@ -3,7 +3,6 @@
 
 
 ## Table of Contents
-* [General Info]
 * The solution is divided into the following sections:
 
 * STEP 1 : Data Understanding, Preparation, and Pre-Processing 
@@ -14,7 +13,6 @@
 * Observation and inference
 
 * [Technologies Used]-Machine Learning
-* [Conclusions](#conclusions)
 
 * General Information
  Overview Telecom Industry is a very competitive market, exit barriers for customer are low. Loyalty depends on user experince and attractive offers. Industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition. Retaining high profitable customers is the number one business goal.
@@ -40,8 +38,5 @@ STEP 5 : Business Recommendation
 Our primary aim is to reduce customer churn, so it becomes utmost important to identify potential churning customers
 Given this scenario, the most important metric will be SENSITIVITY
 Logistic Regression with feature selection using Random Forest and RFE becomes the best model from business perspective
-This model has
-accuracy = 0.78(78% of the predictions are correct)
-sensitivity = 0.976 (97% of the customers who are churning can be identified)
 
 
